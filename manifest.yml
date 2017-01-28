@@ -1,0 +1,8 @@
+---
+applications:
+- name: zangyo
+  host: zangyo
+  memory: 56M
+  instances: 1
+  buildpack: ruby_buildpack
+
